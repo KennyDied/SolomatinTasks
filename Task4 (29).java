@@ -42,9 +42,4 @@ public class Task4 {
         }
         System.out.println(sum);
     }
-
-    public static void Counter (int a, int b) {
-       // int sum = checkOddsAndEvens(a, b);
-       // System.out.println(sum);
-    }
 }
