@@ -6,7 +6,4 @@ public class Experiment {
         //заполнить массив случайными числами
         return array;
     }
-
-    public int getSize() {
-    }
 }
