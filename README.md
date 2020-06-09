@@ -20,4 +20,4 @@ Task3 is 22
 Task4 is 14
 Task5 is 14
 Task6 is 15
-
+Task7 is 23
