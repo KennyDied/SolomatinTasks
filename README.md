@@ -14,7 +14,7 @@ Task7 is 19
 
 
 2 sem:
-Task1 is 10 - stack an queue
+Task1 is 10
 Task2 is 3
 Task3 is 22
 Task4 is 14
